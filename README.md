@@ -1,5 +1,5 @@
 <div align="center">
-   <img src="https://cdn.discordapp.com/attachments/834174234086866956/1196468891363332228/repo.png?ex=65b7bd7d&is=65a5487d&hm=cdc6f6b8e3aed7f196165e968c64171e59b8e20e4ff427ce980aab0cb516a72f&" alt="MafiaMP" />
+   <a href="https://github.com/hurfy/mafia-mp-gamemode"><img src="https://github.com/hurfy/mafia-mp-gamemode/assets/46726909/30c4aae1-7339-4d8b-9a1b-d1bca3c8ab1a" alt="MafiaMPGM" /></a>
 </div>
 
 <br />
