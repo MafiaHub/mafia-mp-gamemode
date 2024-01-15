@@ -12,7 +12,6 @@
 <div align="center">
   Mafia: Definitive Edition Multiplayer Gamemode!
 </div>
-
 <div align="center">
   <sub>
     Brought to you by <a href="https://github.com/Segfaultd">@Segfault</a>,
