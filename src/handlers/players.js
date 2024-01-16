@@ -1,4 +1,7 @@
-const teleportsData = require("../modules/teleports/teleports_data.js");
+// Modules
+const teleportsData = require("../modules/teleports/teleportsData.js");
+
+console.log("[GAMEMODE|HANDLERS] players.js loaded!");
 
 sdk.on("playerConnected", (player) => {
 	console.log(`[GAMEMODE] Player ${player.getNickname()} connected!`);

@@ -11,7 +11,7 @@ const teleportsData = require("./src/modules/teleports/teleportsData.js");
 
 // Handlers
 const commandsHandler = require("./src/handlers/commands.js");
-// const playersHandler = require("./src/handlers/players.js");
+const playersHandler = require("./src/handlers/players.js");
 
 sdk.on("gamemodeLoaded", () => {
 	// Logs
