@@ -3,7 +3,6 @@ const weatherData = require("./weatherData.js");
 console.log("[GAMEMODE|MODULES] enviroment.js loaded!");
 
 const setWeather = function (id) {
-	console.log(`[GAMEMODE] Weather set: ${weatherData.weather[id]}`);
 	sdk.Environment.setWeather(weatherData.weather[id]);
 };
 
