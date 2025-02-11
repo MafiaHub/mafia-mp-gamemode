@@ -1,0 +1,9 @@
+{
+  "client_files": [
+    "main.lua"
+  ],
+  "server_files": [
+    "main.lua",
+    "test.lua"
+  ]
+}
